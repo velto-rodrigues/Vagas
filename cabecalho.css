@@ -1,0 +1,41 @@
+
+.container{
+display: flex;
+align-items: center;
+flex-direction: row;
+justify-content: space-between;
+padding: 0px 32px;
+
+width: 1280px;
+height: 44px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #667085;
+    font-family: Inter;
+}
+
+.destaque:hover{
+    color: #8E2424;
+    font-size: 19px;
+}
+
+.cads{
+   color: white;
+   background-color: #8E2424;
+   border-radius:5px ;
+   padding: 6px;
+   border: solid 1px white;
+
+}
+.cads:hover{
+    color: #8E2424;
+    background-color: aliceblue;
+    border-color: #8E2424;
+    
+}
