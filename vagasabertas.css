@@ -1,0 +1,20 @@
+.containerv{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.pv{
+    color: #8E2424;
+    border: 1px solid rgba(142, 36, 36, 0.05);
+    border-radius: 50px;
+    background-color: rgba(142, 36, 36, 0.05);
+}
+.h1v{
+    color: black;
+    align-items: flex-start;
+    flex-direction: row;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+.containern{
+display: flex;
+align-items: center;
+flex-direction: row;
+justify-content: space-between;
+padding: 0px 32px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.h1n{
+    color: #8E2424;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;  
+}
+.pn{
+color: black;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+width: 60%;
+margin: auto;
+text-align: center;
+  }

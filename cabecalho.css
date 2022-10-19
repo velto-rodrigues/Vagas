@@ -28,7 +28,7 @@ a{
 .cads{
    color: white;
    background-color: #8E2424;
-   border-radius:5px ;
+   border-radius:8px ;
    padding: 6px;
    border: solid 1px white;
 
@@ -37,5 +37,6 @@ a{
     color: #8E2424;
     background-color: aliceblue;
     border-color: #8E2424;
-    
+ 
 }
+
